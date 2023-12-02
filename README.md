@@ -4,8 +4,7 @@ The code is related to the paper:Text-centered Random Fusion Network for Multimo
 
 ## Datasets
 
-1. You can download the CMU-MOSI and CMU-MOSEI datasets using [CMU-MultimodalDataSDK](https://github.com/Jie-Xie/CMU-MultimodalDataSDK). 
-2. Place them under the folder `MSA-TeRF/datasets`
+You can download the CMU-MOSI and CMU-MOSEI datasets using [CMU-MultimodalDataSDK](https://github.com/Jie-Xie/CMU-MultimodalDataSDK). 
 
 ## Environment Requirement
 
