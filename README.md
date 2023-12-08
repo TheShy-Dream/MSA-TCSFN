@@ -1,4 +1,4 @@
-# MSA-TeRF
+# MSA-TeCsFN
 
 The code is related to the paper:Text-centered Random Fusion Network for Multimodal Sentiment Analysis.
 
