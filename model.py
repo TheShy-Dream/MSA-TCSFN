@@ -318,7 +318,7 @@ class MMIM(nn.Module):
             most_similar_indices = torch.argsort(similarity_vector)[-num:]
             rand_key=torch.rand(1)
             # 根据概率 prob 决定是否替换 modal2
-            if prob < rand_key:
+            if rand_key < prob:
                 #可以被替换的向量nn
                 replacement_indices = [idx for idx in range(batch_size) if idx != i and idx in most_similar_indices]
                 selected_idx = np.random.choice(replacement_indices)

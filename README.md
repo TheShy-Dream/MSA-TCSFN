@@ -1,6 +1,6 @@
-# MSA-TeCsFN
+# MSA-TCSFN
 
-The code is related to the paper:Text-centered Random Fusion Network for Multimodal Sentiment Analysis.
+The code is related to the paper:Text-centered Cross-sample Fusion Network for Multimodal Sentiment Analysis.
 
 ## Datasets
 
